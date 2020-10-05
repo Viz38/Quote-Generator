@@ -40,6 +40,9 @@ var quotes = [
   '"The best performance improvement is the transition from the nonworking state to the working state."  - J. Osterhout',
   '"The trouble with programmers is that you can never tell what a programmer is doing until it’s too late."  - Seymour Cray',
   '"Don’t worry if it doesn’t work right. If everything did, you’d be out of a job."  - Mosher’s Law of Software Engineering'
+  '" Wise men say only fools fall in love, but i cant help falling in love with you"'
+  '" Love is a really complex thing, it hurts, heals, dont know what to do with it"'
+ 
 ]
 
 function getQuote() {
