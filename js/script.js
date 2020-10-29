@@ -43,7 +43,7 @@ var quotes = [
   '" Wise men say only fools fall in love, but i cant help falling in love with you"',
   '" Love is a really complex thing, it hurts, heals, dont know what to do with it"',
   '"Programming is Easy if you have the will to learn it" - Abdul Raouf',
-  '"Change is the end result of all true learning" - Leo '
+  '"Change is the end result of all true learning" - Leo ',
   '"Talk is cheap .Show me the code" -Linux'
 ]
 
