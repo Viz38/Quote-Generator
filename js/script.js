@@ -45,6 +45,7 @@ var quotes = [
   '"Programming is Easy if you have the will to learn it" - Abdul Raouf',
   '"Change is the end result of all true learning" - Leo ',
   '"Talk is cheap .Show me the code" -Linux'
+  '"Programs must be written for people to read, and only incidentally for machines to execute." - Harold Abelson' 
 ]
 
 function getQuote() {
