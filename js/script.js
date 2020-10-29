@@ -44,9 +44,10 @@ var quotes = [
   '" Love is a really complex thing, it hurts, heals, dont know what to do with it"',
   '"Programming is Easy if you have the will to learn it" - Abdul Raouf',
   '"Change is the end result of all true learning" - Leo ',
-  '"Talk is cheap .Show me the code" -Linux',
+  '"Talk is cheap .Show me the code" -Linus',
   '"Programs must be written for people to read, and only incidentally for machines to execute." - Harold Abelson',
   '"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler'
+  '"I am not a great programmer.I am just a good programmer with great habits." - Kent Back'
 ]
 
 function getQuote() {
