@@ -50,7 +50,9 @@ var quotes = [
   '"I am not a great programmer.I am just a good programmer with great habits." - Kent Back',
   '"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler',
   '"Difficult struggle in mountaineering is our rise above himself, is the voice of freedom." - Wojciech Kurtyka',
-  '"First, solve the problem. Then, write the code." – John Johnson'
+  '"First, solve the problem. Then, write the code." – John Johnson',
+  '"Good design adds value faster than it adds cost." - Joel Spolsky',
+  '"All problems in computer science can be solved by another level of indirection." - David Wheeler'
 ]
 
 function getQuote() {
