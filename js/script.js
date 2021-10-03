@@ -56,6 +56,7 @@ var quotes = [
   '“ Get busy living or get busy dying.” — Stephen King',
   '“Turn your wounds into wisdom.” — Oprah Winfrey',
   '"Care about what other people think and you will always be their prisoner" - Anonymous'
+  '"The computer was born to solve problems that did not exist before." - Bill Gates'
 ]
 
 function getQuote() {
