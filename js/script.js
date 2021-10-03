@@ -55,8 +55,11 @@ var quotes = [
   '"All problems in computer science can be solved by another level of indirection." - David Wheeler',
   '“ Get busy living or get busy dying.” — Stephen King',
   '“Turn your wounds into wisdom.” — Oprah Winfrey',
-  '"Care about what other people think and you will always be their prisoner" - Anonymous'
-  '"The computer was born to solve problems that did not exist before." - Bill Gates'
+  '"Care about what other people think and you will always be their prisoner" - Anonymous',
+  '"The computer was born to solve problems that did not exist before." - Bill Gates',
+  '“All men have limits. They learn what they are and learn not to exceed them. I ignore mine.” – Batman',
+  '“There is a difference between you and me. We both looked into the abyss, but when it looked back at us… you blinked.” – Batman',
+  '“I have one power. I never give up.” – Batman'
 ]
 
 function getQuote() {
