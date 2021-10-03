@@ -52,7 +52,8 @@ var quotes = [
   '"Difficult struggle in mountaineering is our rise above himself, is the voice of freedom." - Wojciech Kurtyka',
   '"First, solve the problem. Then, write the code." – John Johnson',
   '"Good design adds value faster than it adds cost." - Joel Spolsky',
-  '"All problems in computer science can be solved by another level of indirection." - David Wheeler'
+  '"All problems in computer science can be solved by another level of indirection." - David Wheeler',
+  '"The computer was born to solve problems that did not exist before." - Bill Gates',
 ]
 
 function getQuote() {
