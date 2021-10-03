@@ -154,7 +154,7 @@ body {
 
 @keyframes scan {
   0%        { background-position: 0 -100vh; }
-  35%, 100% { background-position: 0 130vh; }
+  35%, 100% { background-position: 0 100vh; }
 }
 
 .terminal {
