@@ -59,7 +59,12 @@ var quotes = [
   '"The computer was born to solve problems that did not exist before." - Bill Gates',
   '“All men have limits. They learn what they are and learn not to exceed them. I ignore mine.” – Batman',
   '“There is a difference between you and me. We both looked into the abyss, but when it looked back at us… you blinked.” – Batman',
-  '“I have one power. I never give up.” – Batman'
+  '“I have one power. I never give up.” – Batman',
+  '“If you can’t explain it simply, you don’t understand it well enough.” - Albert Einstein',
+  '“The task is not to see what has never been seen before, but to think what has never been thought before about what you see everyday.” -Erwin Schrodinger',
+  '“However difficult life may seem, there is always something you can do and succeed at.” -Stephen Hawking',
+  '“If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.” -Nikola Tesla ',
+  '“You cannot change your future, but you can change your habits, and surely your habits will change your future.” -APJ Abdul Kalam'
 ]
 
 function getQuote() {
