@@ -64,7 +64,12 @@ var quotes = [
   '“The task is not to see what has never been seen before, but to think what has never been thought before about what you see everyday.” -Erwin Schrodinger',
   '“However difficult life may seem, there is always something you can do and succeed at.” -Stephen Hawking',
   '“If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.” -Nikola Tesla ',
-  '“You cannot change your future, but you can change your habits, and surely your habits will change your future.” -APJ Abdul Kalam'
+  '“You cannot change your future, but you can change your habits, and surely your habits will change your future.” -APJ Abdul Kalam',
+  '“Dont be pushed around by the fears in your mind. Be led by the dreams in your heart.” -Roy T. Bennett',
+  '“It’s only after you’ve stepped outside your comfort zone that you begin to change, grow, and transform.” -Roy T. Bennett',
+  '“Lack of direction, not lack of time, is the problem. We all have twenty-four hour days.” -Zig Ziglar',
+  '“The man who moves a mountain begins by carrying away small stones.” -Confucius',
+  '"Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better." -Samuel Beckett'
 ]
 
 function getQuote() {
