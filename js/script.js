@@ -74,10 +74,23 @@ var quotes = [
   ' “If you don’t build your dream, someone else will hire you to help them build theirs.” – Dhirubhai Ambani',
   '“You can’t outwit fate by standing on the sidelines placing little side bets about the outcome of life. Either you wade in and risk everything you have to play the game or you don’t play at all. And if you don’t play you can’t win.” – Judith McNaught',
   '“Saying it is impossible to live without failing at something is impossible. Unless you live so cautiously that you might as well not have lived at all, in which case you have failed by default.” – J.K. Rowling',
-  '“Screw it, let’s do it!” – Richard Branson'
-]
+  '“Screw it, let’s do it!” – Richard Branson',
+  '"Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure. It is our Light, not our Darkness, that most frightens us." - Marianne Williamson',
+  '"The only journey is the one within."- Rainer Maria Rilke',
+  '"It is only with the heart that one can see rightly. What is essential is invisible to the eye.” - Antoine de Saint-Exupéry',
+  '"Real eyes, realize, real lies" - Tupac Shakur',
+  '"Nobody gives you a chance; you gotta take chances!" - Lil Wayne',
+  '"You can\'t heal what you don\'t reveal." - Jay-Z',
+  '"The way I see it, if you want the rainbow, you gotta put up with the rain."- Dolly Parton',
+  '"Find out who you are and do it on purpose."-Dolly Parton',
+  '"“Don’t ever play with someone’s feelings, you could win the game but you could lose that person forever.”- Frank Ocean',
+  '"We delight in the beauty of the butterfly, but rarely admit the changes it has gone through to achieve that beauty."- Maya Angelou',
+  '"“I am no longer accepting the things I cannot change. I am changing the things I cannot accept.”- Angela Davis',
+  '"“But life is just a party, and parties weren\'t meant to last.” - Prince',
+  '"Life is not a rehearsal; you gotta live it out."- Janelle Monae',
+];
 
 function getQuote() {
-  var randNum = Math.floor(Math.random() * (quotes.length));
+  var randNum = Math.floor(Math.random() * quotes.length);
   document.getElementById('quote').innerHTML = quotes[randNum];
 }
