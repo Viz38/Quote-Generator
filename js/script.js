@@ -69,7 +69,12 @@ var quotes = [
   '“It’s only after you’ve stepped outside your comfort zone that you begin to change, grow, and transform.” -Roy T. Bennett',
   '“Lack of direction, not lack of time, is the problem. We all have twenty-four hour days.” -Zig Ziglar',
   '“The man who moves a mountain begins by carrying away small stones.” -Confucius',
-  '"Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better." -Samuel Beckett'
+  '"Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better." -Samuel Beckett',
+  ' “If you do what you’ve always done, you’ll get what you’ve always gotten.”. – Tony Robbins',
+  ' “If you don’t build your dream, someone else will hire you to help them build theirs.” – Dhirubhai Ambani',
+  '“You can’t outwit fate by standing on the sidelines placing little side bets about the outcome of life. Either you wade in and risk everything you have to play the game or you don’t play at all. And if you don’t play you can’t win.” – Judith McNaught',
+  '“Saying it is impossible to live without failing at something is impossible. Unless you live so cautiously that you might as well not have lived at all, in which case you have failed by default.” – J.K. Rowling',
+  '“Screw it, let’s do it!” – Richard Branson'
 ]
 
 function getQuote() {
