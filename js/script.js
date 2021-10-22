@@ -1,4 +1,7 @@
 var quotes = [
+  '"The greatest discovery of all time is that a person can change his future by merely changing his attitude." -Oprah Winfrey',
+  '"The only thing worse than being blind is having sight but no vision." -Hellen Keller',
+  '"Dont count the things you do, do the things that count."-Zig Ziglar',
   '“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler',
   '“First, solve the problem. Then, write the code.” – John Johnson',
   '“Experience is the name everyone gives to their mistakes.” – Oscar Wilde',
