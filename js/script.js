@@ -91,8 +91,8 @@ var quotes = [
   '"“I am no longer accepting the things I cannot change. I am changing the things I cannot accept.”- Angela Davis',
   '"“But life is just a party, and parties weren\'t meant to last.” - Prince',
   '"Life is not a rehearsal; you gotta live it out."- Janelle Monae',
-  '“If somebody offers you an amazing opportunity but you are not sure you can do it, say yes – then learn how to do it later!”-Richard Branson'
-  '“Life is a helluva lot more fun if you say yes rather than no”-Richard Branson'
+  '“If somebody offers you an amazing opportunity but you are not sure you can do it, say yes – then learn how to do it later!”-Richard Branson',
+  '“Life is a helluva lot more fun if you say yes rather than no”-Richard Branson',
   '"Death is unfair, It comes to those who doesn\'t need it. But not to those who asks for it."-Kaneki'
 ];
 
