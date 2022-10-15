@@ -94,7 +94,8 @@ var quotes = [
   '“If somebody offers you an amazing opportunity but you are not sure you can do it, say yes – then learn how to do it later!”-Richard Branson',
   '“Life is a helluva lot more fun if you say yes rather than no”-Richard Branson',
   '"Death is unfair, It comes to those who doesn\'t need it. But not to those who asks for it."-Kaneki',
-  '"Code is like humor. When you have to explain it, it’s bad." – Cory House'
+  '"Code is like humor. When you have to explain it, it’s bad." – Cory House',
+  '"Learning without thinking is useless, but thinking without learning is very dangerous." – Soekarno'
 ];
 
 function getQuote() {
