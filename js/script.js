@@ -95,6 +95,7 @@ var quotes = [
   '“Life is a helluva lot more fun if you say yes rather than no”-Richard Branson',
   '"Death is unfair, It comes to those who doesn\'t need it. But not to those who asks for it."-Kaneki',
   '"Code is like humor. When you have to explain it, it’s bad." – Cory House',
+  '"When to use iterative development? You should use iterative development only on projects that you want to succeed." – Martin Fowler',
   '"Learning without thinking is useless, but thinking without learning is very dangerous." – Soekarno'
 ];
 
